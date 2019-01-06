@@ -1,0 +1,67 @@
+.aboutCard{
+    float: left;
+    background: white;
+    width: 100%;
+    color: #323232;
+    padding: 2% 5.5%;
+    font-size: 1em;
+    border-radius: 0;
+    font-size: 1.25vw;
+    border-radius: 0 0 5px 5px;
+
+}
+.aboutCard h2{
+    font-family: bebas;
+    width: 100%;
+    margin:0;
+    float: left;
+}
+.aparteCard{
+    width: 50%;
+    float: left;
+    border-radius: 0;
+    padding: 0 1% 0 0;
+}
+.aboutCard2{
+    float: left;
+    width: 100%;
+    color: #222629;
+    padding: 2% 5.5%;
+    font-size: 1em;
+    border-radius: 0;
+
+}
+.aboutCard2 h2{
+    font-family: bebas;
+    width: 100%;
+    float: left;
+}
+hr{
+    float: left;
+    width: 100%;
+}
+.aparteCard img{
+    width: 48%;
+    float: left;
+    margin: 0 2% 0 0;
+    border-radius: 5px;
+}
+p{
+    width:48%;
+    float: left;
+}
+.quote{
+    color:whitesmoke; 
+    text-align: center; 
+    font-size:2vw;
+}
+.stukTekst{
+    width: 100%;
+    float: left;
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 0;
+}
+.mat-card-title{
+    font-family: bebas;
+}

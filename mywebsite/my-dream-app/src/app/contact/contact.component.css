@@ -1,0 +1,27 @@
+.aboutCard{
+    float: left;
+    background: white;
+    width: 100%;
+    color: #222629;
+    padding: 2% 5.5%;
+    font-size: 1em;
+    border-radius: 0;
+    text-align: center;
+}
+.aboutCard h2{
+    font-family: bebas;
+    width: 100%;
+    margin:0;
+    float: left;
+}
+
+.mat-card-title{
+    font-family: bebas;
+    color: #323232;
+}
+.googleCard{
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 0;
+}

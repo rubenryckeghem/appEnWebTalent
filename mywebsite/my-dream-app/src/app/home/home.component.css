@@ -1,0 +1,71 @@
+.p-mat-card{
+    margin: 0 15px;
+    font-family: bebas;
+  }
+.test{
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+.btn-primary {
+    background-color: transparent;
+    border-color: #87BD2B;
+    color: #87BD2B;
+}
+.btn-primary:hover {
+    background-color:  #87BD2B;
+    color: white;
+}
+.test2{
+    background-color: #222629;
+    color: white;
+    float: left;
+    width: 20%;
+    margin: 0 4% 2% 0;
+}
+.image{
+    object-fit: contain;
+  }
+.titel{
+    font-family: bebas;
+    color: #87BD2B;
+}
+.test2 p{
+    font-size: 0.8em;
+}
+.test3{
+    background-color: #222629;
+    color: white;
+    float: left;
+    width: 20%;
+    margin: 0 4% 5% 4%;
+}
+.test3 p{
+    font-size: 0.8em;
+}
+.aboutCard{
+    float: left;
+    background: white;
+    width: 100%;
+    color: #323232;
+    text-align: center;
+    padding: 2% 10%;
+    font-size: 1em;
+    border-radius: 0;
+}
+.mat-card-content img{
+    margin-bottom: 2%;
+}
+.mat-card-content a{
+    color: #87BD2B;
+    font-family: bebas;
+    font-size: 1.2em;
+    
+}
+.mat-card-content a:hover{
+    color: #222629;
+    font-family: bebas;
+    font-size: 1.2em;
+    transition: 0.3s ease; 
+    text-decoration: none;
+}

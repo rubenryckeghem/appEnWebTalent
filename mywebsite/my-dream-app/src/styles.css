@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+html{
+    color: #323232;
+}
+body{
+    background-image: url("assets/images/prism.png");
+}
+.jumbotron{
+    border-style: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px;
+    border-radius: 0 0 5px 5px;
+    color: #323232;
+    background-color: white;
+}
+.jumbotron h4 .display-4{
+    font-family: bebas;
+}
+
+@font-face {
+    font-family: bebas;
+    src: url(assets/fonts/BebasNeue-Regular.otf) format("opentype");
+  }
+  
+.jumbotron h1{
+    font-family: bebas;
+}
+a .footerLink{
+    color:white;
+}

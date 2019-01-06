@@ -1,0 +1,17 @@
+nav .navbar-nav li a:hover{
+    color: #87BD2B !important;
+    transition: 0.3s ease; 
+}
+nav .navbar-brand{
+    font-family: bebas;
+    font-size: 2em;
+}
+nav{
+    background-color: #222629;
+    border-bottom: 1px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-style: solid;
+    border-color: #87BD2B;
+}
